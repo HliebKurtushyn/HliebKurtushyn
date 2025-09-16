@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hlieb (Gleb)
 - 👀 I’m interested in Python apps coding
 - 🌱 I’m currently learning Python and Java
-- 😄 Pronouns: Bring me the door, I want to go out. - Vitaliy Klychko
 - ⚡ Fun fact: I can speak Deutsch
 
 <!---
